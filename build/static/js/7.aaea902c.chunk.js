@@ -1,0 +1,2 @@
+(window.webpackJsonpbasereactapp=window.webpackJsonpbasereactapp||[]).push([[7],{29:function(e,n,a){"use strict";a.r(n),a.d(n,"default",function(){return r});var t=a(0),l=a.n(t),c=a(5);function r(e){console.log(e.match.params);return l.a.createElement("div",null,l.a.createElement("h1",null,"Delete User  Component!"),l.a.createElement("ul",null,l.a.createElement("li",null,l.a.createElement(c.b,{to:"/admin"},"Go Back"))))}}}]);
+//# sourceMappingURL=7.aaea902c.chunk.js.map

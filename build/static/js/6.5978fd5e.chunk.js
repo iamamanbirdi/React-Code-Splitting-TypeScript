@@ -1,0 +1,2 @@
+(window.webpackJsonpbasereactapp=window.webpackJsonpbasereactapp||[]).push([[6],{34:function(e,a,t){"use strict";t.r(a),t.d(a,"default",function(){return r});var n=t(0),l=t.n(n),c=t(5);function r(){return l.a.createElement("div",null,l.a.createElement("h1",null,"Hello from Contact Us!"),l.a.createElement("ul",{className:""},l.a.createElement("li",null,l.a.createElement(c.b,{to:"/home"},"Go Back"))))}}}]);
+//# sourceMappingURL=6.5978fd5e.chunk.js.map

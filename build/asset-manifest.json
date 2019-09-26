@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.638bc17a.chunk.css",
+    "main.js": "/static/js/main.645e315d.chunk.js",
+    "main.js.map": "/static/js/main.645e315d.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.89b58090.js",
+    "runtime~main.js.map": "/static/js/runtime~main.89b58090.js.map",
+    "static/js/2.8cb3bc20.chunk.js": "/static/js/2.8cb3bc20.chunk.js",
+    "static/js/2.8cb3bc20.chunk.js.map": "/static/js/2.8cb3bc20.chunk.js.map",
+    "static/js/3.e305f301.chunk.js": "/static/js/3.e305f301.chunk.js",
+    "static/js/3.e305f301.chunk.js.map": "/static/js/3.e305f301.chunk.js.map",
+    "static/js/4.07adade4.chunk.js": "/static/js/4.07adade4.chunk.js",
+    "static/js/4.07adade4.chunk.js.map": "/static/js/4.07adade4.chunk.js.map",
+    "static/js/5.eec56898.chunk.js": "/static/js/5.eec56898.chunk.js",
+    "static/js/5.eec56898.chunk.js.map": "/static/js/5.eec56898.chunk.js.map",
+    "static/js/6.5978fd5e.chunk.js": "/static/js/6.5978fd5e.chunk.js",
+    "static/js/6.5978fd5e.chunk.js.map": "/static/js/6.5978fd5e.chunk.js.map",
+    "static/js/7.aaea902c.chunk.js": "/static/js/7.aaea902c.chunk.js",
+    "static/js/7.aaea902c.chunk.js.map": "/static/js/7.aaea902c.chunk.js.map",
+    "static/js/8.495d29b6.chunk.js": "/static/js/8.495d29b6.chunk.js",
+    "static/js/8.495d29b6.chunk.js.map": "/static/js/8.495d29b6.chunk.js.map",
+    "static/js/9.9b3ead50.chunk.js": "/static/js/9.9b3ead50.chunk.js",
+    "static/js/9.9b3ead50.chunk.js.map": "/static/js/9.9b3ead50.chunk.js.map",
+    "static/js/10.43cd4545.chunk.js": "/static/js/10.43cd4545.chunk.js",
+    "static/js/10.43cd4545.chunk.js.map": "/static/js/10.43cd4545.chunk.js.map",
+    "static/js/11.a3df80df.chunk.js": "/static/js/11.a3df80df.chunk.js",
+    "static/js/11.a3df80df.chunk.js.map": "/static/js/11.a3df80df.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8a2163a512f2e329848f437340b08c75.js": "/precache-manifest.8a2163a512f2e329848f437340b08c75.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.638bc17a.chunk.css.map": "/static/css/main.638bc17a.chunk.css.map"
+  }
+}

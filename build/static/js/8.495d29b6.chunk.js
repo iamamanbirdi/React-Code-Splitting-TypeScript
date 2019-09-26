@@ -1,0 +1,2 @@
+(window.webpackJsonpbasereactapp=window.webpackJsonpbasereactapp||[]).push([[8],{36:function(e,a,n){"use strict";n.r(a),n.d(a,"default",function(){return o});var t=n(0),l=n.n(t),c=n(5);function o(){return l.a.createElement("div",null,l.a.createElement("h1",null,"Hello from Home  Component!"),l.a.createElement("ul",{className:""},l.a.createElement("li",null,l.a.createElement(c.b,{to:"/home"},"Go Back"))))}}}]);
+//# sourceMappingURL=8.495d29b6.chunk.js.map

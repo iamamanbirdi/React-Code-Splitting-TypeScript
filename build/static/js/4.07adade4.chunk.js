@@ -1,0 +1,2 @@
+(window.webpackJsonpbasereactapp=window.webpackJsonpbasereactapp||[]).push([[4],{33:function(e,n,a){"use strict";a.r(n),a.d(n,"default",function(){return c});var t=a(0),l=a.n(t),o=a(5);function c(e){console.log(e.match.params);return l.a.createElement("div",null,l.a.createElement("h1",null,"Hello from About  Component!"),l.a.createElement("ul",null,l.a.createElement("li",null,l.a.createElement(o.b,{to:"/home"},"Go Back"))))}}}]);
+//# sourceMappingURL=4.07adade4.chunk.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonpbasereactapp=window.webpackJsonpbasereactapp||[]).push([[9],{30:function(e,n,t){"use strict";t.r(n),t.d(n,"default",function(){return u});var a=t(0),l=t.n(a),r=t(5);function u(){return l.a.createElement("div",null,l.a.createElement("h1",null,"Welcome(Admin Module)"),l.a.createElement("ul",null,l.a.createElement("li",null,l.a.createElement(r.b,{to:"/admin/adduser"},"Add User")),l.a.createElement("li",null,l.a.createElement(r.b,{to:"/admin/deleteuser"},"Delete User"))))}}}]);
+//# sourceMappingURL=9.9b3ead50.chunk.js.map
